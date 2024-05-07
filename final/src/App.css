@@ -1,0 +1,10 @@
+.tooltip_div {
+  padding: 2px;
+  border: 2px;
+  border-color: black;
+  border-radius: 3px;
+}
+
+.dropdown {
+  margin:auto;
+}
